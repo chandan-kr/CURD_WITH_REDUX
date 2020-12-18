@@ -1,0 +1,1 @@
+# CURD_WITH_REDUX
